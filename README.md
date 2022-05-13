@@ -1,3 +1,4 @@
+# Neural Network implemented in C++
 This project implements some classical machine learning models in C++. It has 2 parts,
 the first part is a nueral network with 1 hidden layer, the second part is an auto-encoder
 used to compress data into lower dimensions for the benefit of smaller cost in training time 
